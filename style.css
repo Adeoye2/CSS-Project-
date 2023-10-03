@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    background-image: 100px;
+}
+p{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 60px;
+    margin: 60px;
+}
+ul{
+    background: red;
+    text-align: justify;
+}
